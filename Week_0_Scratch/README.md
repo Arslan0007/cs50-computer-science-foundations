@@ -30,7 +30,7 @@ I used `broadcast` events to trigger visual feedback. As the candidate demonstra
 ### 4. Win Conditions (Hiring Logic)
 I programmed a complex hiring decision tree:
 * **Perfect Win:** If `Silo Mentality` reaches 0 (Perfect holistic thinking).
-* **High Performance Win:** If `Team Velocity` > 70 (High value output), even if the candidate isn't perfect.
+* **High Performance Win:** If `Team Velocity` > 60 (High value output), even if the candidate isn't perfect.
 * **Fail:** If neither condition is met.
 
 ## 🛠 How to Run
